@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @techsultans
+- 👀 I’m interested in web development, programming languages, and tech trends.
+- 🌱 I’m currently learning advanced JavaScript frameworks and web accessibility.
+- 💞️ I’m looking to collaborate on open-source projects, tutorials, or video content.
+- 📫 How to reach me: You can contact me through my GitHub or my social media profiles.
+- 😄 Pronouns: They/Them!
+- ⚡ Fun fact: I once built a website in a day just for a hackathon challenge!
